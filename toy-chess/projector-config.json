@@ -1,0 +1,22 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "HalfKP (Backrank)",
+      "tensorShape": [5120, 128],
+      "tensorPath": "https://hi-ogawa.github.io/hosting/toy-chess/embedding-data--backrank.tsv",
+      "metadataPath": "https://hi-ogawa.github.io/hosting/toy-chess/embedding-meta--backrank.tsv"
+    },
+    {
+      "tensorName": "HalfKP (E1)",
+      "tensorShape": [640, 128],
+      "tensorPath": "https://hi-ogawa.github.io/hosting/toy-chess/embedding-data--e1.tsv",
+      "metadataPath": "https://hi-ogawa.github.io/hosting/toy-chess/embedding-meta--e1.tsv"
+    },
+    {
+      "tensorName": "HalfKP (All)",
+      "tensorShape": [40960, 128],
+      "tensorPath": "https://hi-ogawa.github.io/hosting/toy-chess/embedding-data.tsv",
+      "metadataPath": "https://hi-ogawa.github.io/hosting/toy-chess/embedding-meta.tsv"
+    }
+  ]
+}
